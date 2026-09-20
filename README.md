@@ -9,8 +9,8 @@ Projekt je nastal v okviru izbirnega predmeta **Matematično modeliranje**.
 Program omogoča:
 
 * simulacijo širjenja in interference valov,
-* ustvarjanje začetnih valov s klikom,
-* dodajanje ovir,
+* ustvarjanje začetnih valov z desnim klikom,
+* dodajanje ovir z levim klikom,
 * izbiro vrste robov: membrana ali prosti robovi,
 * 2D prikaz simulacije,
 * 3D vizualizacijo iste valovne površine.
