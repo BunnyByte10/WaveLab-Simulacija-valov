@@ -24,6 +24,10 @@ Projekt je izdelan v Pythonu in uporablja:
 * **PyQtGraph** – 2D in 3D vizualizacija,
 * **NumPy** – delo z numeričnimi podatki.
 
+## Predogled
+
+![WaveLab simulacija](demo.gif)
+
 ## Prenos programa
 
 [Prenesi WaveLab (.exe)](https://drive.google.com/file/d/1fZo_--CiNzpPMBqUG2IVKCxHpBZdB_yU/view?usp=sharing)
